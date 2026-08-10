@@ -1,14 +1,14 @@
 # Hi there 👋 
 ## I'm Luke, a Full Stack Software Engineer. 
-### I enjoy building things and figuring out how they work.
+### I enjoy building things, solving problems, and seeing ideas come to life.
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
 
 ## About Me
-I'm currently freelancing as a web developer and looking for new experiences and opportunities!
+I'm currently working as a freelance web developer, building websites and full-stack applications.
 
-With a background in psychology, I bring a user-focused and analytical approach to development. I have experience building full-stack applications using JavaScript, React, Node.js, and modern web technologies.
+With a background in psychology, I bring a user-focused and analytical approach to development. I work primarily with JavaScript, React and Node.js, building full-stack applications and responsive web experiences.
 
 
 
@@ -18,14 +18,14 @@ With a background in psychology, I bring a user-focused and analytical approach 
 
 ---
 
-## Projects - showcase
+## Projects
 
 <table>
   <tr>
     <td align="center" width="33%">
       <a href="https://chilworthvillagehall.netlify.app/">
-        <img src=""
-             alt=""
+        <img src="./screenshots/Chilworth Village Hall Thumbnail.png"
+             alt="Chilworth Village Hall"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
@@ -36,8 +36,8 @@ With a background in psychology, I bring a user-focused and analytical approach 
     </td>
     <td align="center" width="33%">
       <a href="">
-        <img src=""
-             alt=""
+        <img src="./screenshots/caffiend Thumbnail.png"
+             alt="caffiend Website"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
@@ -48,8 +48,8 @@ With a background in psychology, I bring a user-focused and analytical approach 
     </td>
     <td align="center" width="33%">
       <a href="">
-        <img src=""
-             alt=""
+        <img src="./screenshots/Macro Meals Thumbnail.png"
+             alt="Macro Meals Website"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
