@@ -34,7 +34,7 @@ With a background in psychology, I bring a user-focused and analytical approach 
     </td>
     <td align="center" width="33%">
       <a href="">
-        <img src="./downloads/broodlgithubreadme.gif"
+        <img src="./screenshots/broodlgithubreadme.gif"
              alt="caffiend Website"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
