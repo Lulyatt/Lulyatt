@@ -1,18 +1,16 @@
 # Hi there 👋 
 ## I'm Luke, a Full Stack Software Engineer. 
 ### I enjoy building things, solving problems, and seeing ideas come to life.
-
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-
 
 ## About Me
 I'm currently working as a freelance web developer, building websites and full-stack applications.
 
 With a background in psychology, I bring a user-focused and analytical approach to development. I work primarily with JavaScript, React and Node.js, building full-stack applications and responsive web experiences.
 
+🤝 Now accepting new clients, see my portfolio at <a href="https://built-by-luke.netlify.app">Builty-By-Luke.com</a>
 
-
-## Skill stack
+## Skill Stack
 [![My Skills](https://skillicons.dev/icons?i=git,github,firebase,express,html,js,nodejs,react,nextjs,bootstrap,tailwind&theme=light)](https://skillicons.dev)
 
 
@@ -36,7 +34,7 @@ With a background in psychology, I bring a user-focused and analytical approach 
     </td>
     <td align="center" width="33%">
       <a href="">
-        <img src="./screenshots/caffiend Thumbnail.png"
+        <img src="./downloads/broodlgithubreadme.gif"
              alt="caffiend Website"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
