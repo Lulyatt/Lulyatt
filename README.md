@@ -24,7 +24,7 @@ With a background in psychology, I bring a user-focused and analytical approach 
       <a href="https://chilworthvillagehall.netlify.app/">
         <img src="./screenshots/Chilworth Village Hall GIF.gif"
              alt="Chilworth Village Hall"
-             style="width:100%; height:200px; object-fit:cover;"/>
+             style="width:100%; height:150px; object-fit:cover;"/>
       </a>
       <br/>
       <b>Chilworth Village Hall</b><br/>
@@ -36,7 +36,7 @@ With a background in psychology, I bring a user-focused and analytical approach 
       <a href="https://caffiend-tracking-app.netlify.app/">
         <img src="./screenshots/caffiend GIF.gif"
              alt="caffiend Website"
-             style="width:100%; height:200px; object-fit:cover;"/>
+             style="width:100%; height:175px; object-fit:cover;"/>
       </a>
       <br/>
       <b>Caffiend</b><br/>
@@ -48,7 +48,7 @@ With a background in psychology, I bring a user-focused and analytical approach 
       <a href="https://broodl-mood-tracking-app.netlify.app/">
         <img src="./screenshots/broodlgithubreadme.gif"
              alt="Macro Meals Website"
-             style="width:100%; height:200px; object-fit:cover;"/>
+             style="width:100%; height:175px; object-fit:cover;"/>
       </a>
       <br/>
       <b>broodl</b><br/>
