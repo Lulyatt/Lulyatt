@@ -21,7 +21,7 @@ With a background in psychology, I bring a user-focused and analytical approach 
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://chilworthvillagehall.netlify.app/">
+      <a href="https://chilworthvillagehall.netlify.app/" target="_blank">
         <img src="./screenshots/Chilworth Village Hall GIF.gif"
              alt="Chilworth Village Hall"
              style="width:100%; height:150px; object-fit:cover;"/>
@@ -33,7 +33,7 @@ With a background in psychology, I bring a user-focused and analytical approach 
       <sub>Tags: HTML, CSS, JS</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://caffiend-tracking-app.netlify.app/">
+      <a href="https://caffiend-tracking-app.netlify.app/" target="_blank">
         <img src="./screenshots/caffiend GIF.gif"
              alt="caffiend Website"
              style="width:100%; height:175px; object-fit:cover;"/>
@@ -45,7 +45,7 @@ With a background in psychology, I bring a user-focused and analytical approach 
       <sub>Tags: React.JS, FantaCSS, Firebase</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://broodl-mood-tracking-app.netlify.app/">
+      <a href="https://broodl-mood-tracking-app.netlify.app/" target="_blank">
         <img src="./screenshots/broodlgithubreadme.gif"
              alt="Macro Meals Website"
              style="width:100%; height:175px; object-fit:cover;"/>
