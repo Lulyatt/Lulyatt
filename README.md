@@ -30,7 +30,7 @@ With a background in psychology, I bring a user-focused and analytical approach 
       <b>Chilworth Village Hall</b><br/>
       <sub>A Vanilla JS web app for the Chilworth Village Hall</a>
       <br/>
-      <sub>Tags: HTML, CSS, JS</sub>
+      <sub>Tags: HTML, CSS, JS, Decap CMS</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://caffiend-tracking-app.netlify.app/" target="_blank">
